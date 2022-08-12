@@ -1,0 +1,15 @@
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\bin\Debug\net6.0\Урок1.exe
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\bin\Debug\net6.0\Урок1.deps.json
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\bin\Debug\net6.0\Урок1.runtimeconfig.json
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\bin\Debug\net6.0\Урок1.dll
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\bin\Debug\net6.0\Урок1.pdb
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.csproj.AssemblyReference.cache
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.AssemblyInfoInputs.cache
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.AssemblyInfo.cs
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.csproj.CoreCompileInputs.cache
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.dll
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\refint\Урок1.dll
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.pdb
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\Урок1.genruntimeconfig.cache
+C:\Users\Саша\Desktop\Обучение Элина\C#\Урок1\obj\Debug\net6.0\ref\Урок1.dll
